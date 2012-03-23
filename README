@@ -1,0 +1,11 @@
+./design/
+
+Contains original Adobe Photoshop Document (PSD) format of blue and gray icons.
+Mock-ups of phone dashboard are available in ./design/phone-mockup/
+
+./img/
+
+Contains finalized PNG and ICO images of the logo in various formats.
+./img/favicon/ - Standard browser favicons in 256 color for both blue and gray icons
+./img/ohmage-phone-dashboard-logo/ - Logo text for ohmagePhone top bar. See mockups in design for suggested gradient color use
+./img/ohmage-phone-icon/ - ohmagePhone Android app icon in high density and extra high density resolutions (72px and 96px, respectively)
